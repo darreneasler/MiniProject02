@@ -1,0 +1,5 @@
+Python Libraries and Versions:
+
+NumPy: 2.0.2+
+Matplotlib: 3.10.0+
+Pandas: 2.2.2+
